@@ -1,0 +1,1 @@
+Nesse programa o usuário deve digitar o primeiro valor, depois inserir a operação que deseja fazer, '+' para soma, '-' para subtração, '*' para multiplicação, '/' para divisão. Após isso o usuário deverá inserir o segundo valor da operação, o programa realizará a operação com os dois números e imprimirá o resultado.
